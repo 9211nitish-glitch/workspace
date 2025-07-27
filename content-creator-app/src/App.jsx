@@ -8,14 +8,14 @@ import { AdapterDayjs } from '@mui/x-date-pickers/AdapterDayjs';
 // Components
 import Navbar from './components/Navbar';
 import Login from './pages/Login';
-import Register from './pages/Register';
-import Dashboard from './pages/Dashboard';
-import Profile from './pages/Profile';
-import Tasks from './pages/Tasks';
-import Packages from './pages/Packages';
-import Wallet from './pages/Wallet';
-import Referrals from './pages/Referrals';
-import Settings from './pages/Settings';
+//import Register from './pages/Register';
+//import Dashboard from './pages/Dashboard';
+//import Profile from './pages/Profile';
+//import Tasks from './pages/Tasks';
+//import Packages from './pages/Packages';
+//import Wallet from './pages/Wallet';
+//import Referrals from './pages/Referrals';
+//import Settings from './pages/Settings';
 
 const theme = createTheme({
   palette: {
